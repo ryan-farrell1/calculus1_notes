@@ -1,6 +1,6 @@
-PWD c:\Users\ryanf\OneDrive\Desktop\Spring 2025\Calculus 1\Notes
+PWD c:\Users\ryanf\OneDrive\Desktop\Spring 2025\Calculus 1\Notes\Ch1 Notes
 INPUT C:\Users\ryanf\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\ryanf\OneDrive\Desktop\Spring 2025\Calculus 1\Notes\Chapter1.tex
+INPUT c:\Users\ryanf\OneDrive\Desktop\Spring 2025\Calculus 1\Notes\Ch1 Notes\Chapter1.tex
 OUTPUT Chapter1.log
 INPUT C:\Users\ryanf\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\ryanf\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -186,9 +186,6 @@ INPUT C:\Users\ryanf\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcblistin
 INPUT C:\Users\ryanf\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcblistings.code.tex
 INPUT C:\Users\ryanf\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
 INPUT C:\Users\ryanf\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
-INPUT C:\Users\ryanf\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstpatch.sty
-INPUT C:\Users\ryanf\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstpatch.sty
-INPUT C:\Users\ryanf\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstpatch.sty
 INPUT C:\Users\ryanf\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
 INPUT C:\Users\ryanf\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
 INPUT C:\Users\ryanf\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
@@ -271,7 +268,6 @@ INPUT C:\Users\ryanf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\sym
 INPUT C:\Users\ryanf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\ryanf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\ryanf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\ryanf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\ryanf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\ryanf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Users\ryanf\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm

@@ -1,6 +1,6 @@
 \documentclass{article}
 
-\title{Chapter 1: Real Numbers and Functions}
+\title{Chapter 1: Real Numbers and Elementary Functions}
 \author{}
 \date{}
 
@@ -30,9 +30,7 @@
 
 \maketitle
 
-\section{The Real Line and Inequalities}
-
-\subsection{Real Numbers}
+\section{Real Numbers}
 
 The real numbers can be visualized using a coordinate system known as the \textbf{real line}. Every number on this line corresponds to some real number.
 
@@ -70,7 +68,7 @@ The following are a list of important sets of real numbers to know along with sy
     \1[] From here, it looks like $e$ repeats, but you can find more digits to show it does not. The irrational numbers don't have a special symbol.
 \end{outline}
 
-\subsection{Inequalities and Intervals}
+\section{Inequalities and Intervals}
 
 Since all of the real numbers can be arranged from left-to-right, we call them \tb{ordered}. The following is some terminology related to the ordering on the real line.
 
@@ -97,7 +95,25 @@ Sometimes the inequalities $x<y$ and $x>y$ are referred to as \emph{strict inequ
     \indent \quad (Negative Multiplication) If $a<b$ and $k$ is negative, then $ak > bk$
 \end{mybox}
 
-A few remarks about these properties: All of the above properties are true if $<$ or $>$ is replaced with $\leq$ or $\geq$ respectively. Similarly, all of the above properties are true for equations ($=$) as well, ignoring the need to ``flip'' signs when multipliying.
+A few remarks about these properties: All of the above properties are true if $<$ or $>$ is replaced with $\leq$ or $\geq$ respectively. Similarly, all of the above properties are true for equations ($=$) as well, ignoring the need to ``flip'' signs when multipliying. 
+
+To demonstrate how the properties above can be used to solve a problem, consider the compound inequality $7 < 11 - 4x \leq 18$. We solve for $x$ as shown below.
+
+\begin{align*}
+    7 < 11 - 4x & \qquad & 11 - 4x \leq 18 \\
+    7 - 11 < - 4x & \qquad & -4x \leq 18 - 11 \\
+    -4 < -4x & \qquad & -4x \leq 7 \\
+    \frac{-4}{-4} > x & \qquad & x \geq \frac{7}{-4} \\
+    1 > x & \qquad & x \geq -\frac{7}{4}
+\end{align*}
+
+By combining these two inequalities, we receive a final solution of $-\frac{7}{4} \leq x < 1$. One might notice that the steps in solving both of these inequalities are very similar. For this reason, we often leave the two inequalities chained together and abbreviate the algebra as follows.
+
+\begin{gather*}
+    7 < 11 - 4x \leq 18 \\
+    -4 < -4x \leq 7  \\
+    1 > x \geq -\frac{7}{4} 
+\end{gather*}
 
 \vspace{5pt}
 Inequalities are particularly useful in describing sets of numbers on the real line. For example, the positive numbers are all of the numbers $x$ where $x>0$. Similarly, the negative numbers are those numbers $x$ which satisfy $x<0$. At the moment, this is a very wordy way of describing sets of numbers. To fix this, we introduce \tb{set notation}.
@@ -113,6 +129,7 @@ Inequalities are particularly useful in describing sets of numbers on the real l
         \item Even Numbers: $\{x \,|\, x=2k \textrm{ where } k \textrm{ is an integer}\}$
         \item Odd Numbers: $\{x \,|\, x=2k + 1 \textrm{ where } k \textrm{ is an integer}\}$
         \item Powers of 2: $\{x \,|\, x=2^k \textrm{ where } k \textrm{ is an natural number}\}$
+        \item Leap Years: $\{x \,|\, x=4k \neq 100m \textrm{ for some integer } k \textrm{ and any integer } m \}$
     \end{itemize}
 \end{mybox}
 
@@ -257,17 +274,15 @@ Let $a$ and $b$ be real numbers where $a<b$, then the following are all differen
 
 \end{mybox}
 
-Interval notation is central to many of the problems at the heart of calculus. Solutions to inequalities, increasing/decreasing intervals for functions and domain restrictions are just a few applications which will come up this semester, so being comfortable with this sort of notation is important.
-
-\section{The Cartesian Coordinate System}
+Interval notation is central to many of the problems at the heart of calculus. Just to name one, consider the compound inequality we solved earlier: $7 < 11 - 4x \leq 18$. Our solution to this inequality took the form $-\frac{7}{4} \leq x < 1$. In interval notation, we can write this more succinctly as $[-\frac{7}{4},1)$.
 
 
-\section{Graphing Equations}
+\section{Lines and Graphs}
 
 
-\section{Lines in the Plane}
+\section{Elementary and Inverse Functions}
 
 
-\section{Functions}
+\section{Review of Trigonometric Functions}
 
 \end{document}
